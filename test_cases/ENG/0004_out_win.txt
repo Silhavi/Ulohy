@@ -1,3 +1,0 @@
-Room dimension:
-Point #1:
-Invalid input.

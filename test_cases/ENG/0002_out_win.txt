@@ -1,5 +1,0 @@
-Room dimension:
-Point #1:
-Point #2:
-Piping length: 590
-Hose length: 524.690385
