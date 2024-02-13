@@ -1,4 +1,5 @@
 import os
+# použito chatGPT: https://chat.openai.com/share/17be91c3-0bd2-4927-bc67-580e5797ec6b
 
 def precti_body(cesta_k_souboru):
     """Čte body ze souboru a vrací je jako seznam dvojic."""
