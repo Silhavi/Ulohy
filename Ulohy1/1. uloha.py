@@ -1,5 +1,6 @@
 import math
 import os
+# použito chatGPT: https://chat.openai.com/share/8b06373f-b04e-45a0-bb50-e48b444a9dd6
 
 # Funkce pro výpočet délky hadice
 
